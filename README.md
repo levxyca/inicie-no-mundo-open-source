@@ -1,21 +1,14 @@
 # 🌸 Participe da Hacktoberfest 🌸
 
-![GitHub repo size](https://img.shields.io/github/repo-size/levxyca/hacktoberfest?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/levxyca/hacktoberfest?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/levxyca/hacktoberfest?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/levxyca/hacktoberfest?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/levxyca/inicie-no-mundo-open-source?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/levxyca/inicie-no-mundo-open-source?style=for-the-badge)
+![GitHub open issues](https://img.shields.io/github/issues/levxyca/inicie-no-mundo-open-source?style=for-the-badge)
 
 ![Imagem de exemplo da página inicial do site](img/example.png)
 
 > Esse projeto consiste em mostrar para as pessoas o que é a hacktoberfest e o mundo open-source ao mesmo tempo em que as mesmas participam e contribuem nele.
 
-### Leia o artigo que originou esse projeto [aqui]().
-
-## 🔍 Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e irei criando issues conforme formos avançando.
-
-- [ ] Modificações básicas do header
+### Leia o artigo que originou esse projeto [aqui](https://dev.to/levxyca/inicie-no-mundo-open-source-participando-da-hacktoberfest-3np6).
 
 ## 📫 Contribuindo
 
