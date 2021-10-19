@@ -1,4 +1,4 @@
-# 🌸 Participe da Hacktoberfest 🌸
+# 🌸 Inicie no mundo Open Source 🌸
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/levxyca/inicie-no-mundo-open-source?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/levxyca/inicie-no-mundo-open-source?style=for-the-badge)
