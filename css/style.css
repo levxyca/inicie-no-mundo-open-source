@@ -147,3 +147,50 @@ body {
 .header__title {
   margin-bottom: 5rem;
 }
+
+.header__nav-menu-item {
+  color: #fafafa;
+  font-size: 1rem;
+  margin: 1rem 0;
+}
+
+.content__what {
+  background-color: #2b3531;
+  font-size: 2.5rem;
+  letter-spacing: 0.1em;
+  text-transform: lowercase;
+  color: #fafafa;
+}
+
+.content__what-p {
+  margin: 5rem 1.5rem;
+  line-height: 1.2;
+}
+
+.content__why-title{
+  font-size: 2.5rem;
+  margin-top: 5rem;
+}
+
+.content__why-p{
+  font-size: 2.5rem;
+  margin: 6rem 3rem;
+  letter-spacing: 0.1em;
+  text-transform: lowercase;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  padding: 2rem 0;
+  font-size: 0.75rem;
+}
+
+.footer__link {
+  margin-left: 0.625rem;
+  text-decoration: none;
+  color: #2b3531;
+}
+
+.footer__link:hover {
+  text-decoration: underline;
