@@ -141,42 +141,58 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 90vh;
+  min-width: 90vw;
+  padding: 5vw 5vh 5vw 5vh;
 }
 
 .header__title {
+  font-size: 2.5rem;
+  color: #2b3531;
   margin-bottom: 5rem;
+  text-align: center;
 }
 
 .header__nav-menu-item {
-  color: #fafafa;
-  font-size: 1rem;
+  font-size: 2.0rem;
+  color: #2b3531;
   margin: 1rem 0;
+  letter-spacing: 0.1em;
+  text-align: center;
+  text-decoration: none;
 }
 
-.content__what {
+.header__nav-menu-item :hover {
+  font-weight: bolder ;
+}
+
+.content__what, .content__how, .content__send {
   background-color: #2b3531;
   font-size: 2.5rem;
   letter-spacing: 0.1em;
-  text-transform: lowercase;
   color: #fafafa;
+  text-align: center;
 }
 
-.content__what-p {
+.content__what-p, .content__how-p, .content__send-p {
   margin: 5rem 1.5rem;
+  font-size: 2.0rem;
   line-height: 1.2;
+  text-align: justify;
 }
 
-.content__why-title{
+.content__why, .content__where{
   font-size: 2.5rem;
-  margin-top: 5rem;
-}
-
-.content__why-p{
-  font-size: 2.5rem;
-  margin: 6rem 3rem;
   letter-spacing: 0.1em;
-  text-transform: lowercase;
+  color: #2b3531;
+  text-align: center;
+}
+
+.content__why-p, .content__where-p{
+  font-size: 2.0rem;
+  margin: 6rem 3rem;
+  line-height: 1.2;
+  text-align: justify;
 }
 
 .footer {
@@ -194,3 +210,4 @@ body {
 
 .footer__link:hover {
   text-decoration: underline;
+}
