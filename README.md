@@ -31,4 +31,4 @@ Para mandar seu PR, siga estas etapas:
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-Feito com 💙 por [levxyca](https://levxyca.codes/)
+Feito com 💙 por [levxyca](https://levxyca.com/)
